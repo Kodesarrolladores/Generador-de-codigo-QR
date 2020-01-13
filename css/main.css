@@ -9,6 +9,7 @@ body {
     justify-content: center;
     height: 100vh;
     font-family: Sarala, Arial, sans-serif;
+    overflow-y: hidden;
 }
   
 .container {
