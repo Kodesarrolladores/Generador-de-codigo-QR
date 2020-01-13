@@ -4,7 +4,7 @@
 
 <p align="center">
 Si en algún momento nos encontramos con un proyecto que desea implementar código QR en sus requerimientos.<br>
-Aquí tenemos una opción en JavaScript, la librería qrcodejs, que soporta diferente navegadores,<br>
+Aquí tenemos una opción en JavaScript, la librería qrcodejs, que soporta diferentes navegadores,<br>
 trabaja con Canvas HTML5 y no necesita de otras dependencias.<br>
 </p>
 
