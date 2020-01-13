@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/Kodesarrolladores/Base/blob/master/FB%20profile/facebook-profile-transparente.png" alt="Mark Text" width="100" height="100"></p>
 
-<h1 align="center">Generador de codigo QR</h1>
+<h1 align="center">Generador de código QR</h1>
 
 <p align="center">
 Si en algún momento nos encontramos con un proyecto que desea implementar código QR en sus requerimientos.<br>
